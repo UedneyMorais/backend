@@ -24,7 +24,17 @@
 
 ## Description
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+This project is a RESTful API for task management, built with NestJS and TypeORM. It provides the backend functionality for:
+
+- User authentication and authorization
+- CRUD operations for tasks:
+  - Create new tasks
+  - Retrieve task lists with filtering options
+  - Update task details
+  - Delete tasks
+  - Mark tasks as complete
+- Database persistence using TypeORM
+- Data validation and error handling
 
 ## Project setup
 
