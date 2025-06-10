@@ -25,8 +25,6 @@
 ## Description
 
 This project is a RESTful API for task management, built with NestJS and TypeORM. It provides the backend functionality for:
-
-- User authentication and authorization
 - CRUD operations for tasks:
   - Create new tasks
   - Retrieve task lists with filtering options
